@@ -34,3 +34,7 @@ Where:
 - r = Monthly interest rate (annual rate ÷ 12 ÷ 100)
 - n = Total number of months
 
+## Demo Video
+
+https://github.com/user-attachments/assets/e1264d91-283d-43cf-bd9f-2dce3242246c
+
